@@ -10,10 +10,6 @@
 
 
 
-https://github.com/Web-CODED/Web-CODED/assets/140079657/4152af91-0827-4b01-939c-fa5f826b13be
-
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=web-coded&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
