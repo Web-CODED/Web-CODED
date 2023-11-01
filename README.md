@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-coded&label=Profile%20views&color=0e75b6&style=flat" alt="web-coded" /> </p>
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dweb-coded&longCache=true"/>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=web-coded&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
