@@ -56,3 +56,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-coded&show_icons=true&locale=en&layout=compact" alt="web-coded" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-coded&show_icons=true&locale=en" alt="web-coded" /></p>
+
+
+<img src="https://myreadme.vercel.app/api/embed/web-coded?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
