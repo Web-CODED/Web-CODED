@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-coded&label=Profile%20views&color=0e75b6&style=flat" alt="web-coded" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/web-coded/github-profile-trophy)   /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=web-coded&theme=onedark" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/progeng94" target="blank"><img src="https://img.shields.io/twitter/follow/progeng94?logo=twitter&style=for-the-badge" alt="progeng94" /></a> </p>
 
