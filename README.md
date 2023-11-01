@@ -57,5 +57,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-coded&show_icons=true&locale=en" alt="web-coded" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=web-coded" (https://git.io/streak-stats) /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=web-coded"/></a></p>
 
