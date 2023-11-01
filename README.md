@@ -63,3 +63,7 @@
 
 
 <img src="https://myreadme.vercel.app/api/embed/web-coded?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
+
+![Snake animation](https://github.com/web-coded/github-readme/blob/output/github-contribution-snake.svg)
