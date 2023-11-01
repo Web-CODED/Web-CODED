@@ -66,4 +66,4 @@
 
 
 
-![Snake animation](https://github.com/web-coded/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/Web-CODED/github-readme/blob/output/github-contribution-snake.svg)
