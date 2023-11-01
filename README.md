@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRASUN GUPTA</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Web-CODED/Web-CODED/main/computer.gif"> </div>
+<div align="left"> <img src="https://raw.githubusercontent.com/Web-CODED/Web-CODED/main/Banner.gif"> </div>
 <h3 align="center">An enthusiastic developer from India, started "Web_CODED" and "Excel_STUDY101"</h3>
 
 
@@ -7,13 +7,6 @@
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dweb-coded&longCache=true"/>
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
-
-
-<div align="left"> <img src="https://raw.githubusercontent.com/Web-CODED/Web-CODED/main/Banner.gif"> </div>
-
-
-
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=web-coded&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
