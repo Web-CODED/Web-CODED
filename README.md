@@ -8,7 +8,7 @@
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-
+<div align="center"> <img src="https://raw.githubusercontent.com/Web-CODED/Web-CODED/main/Banner.gif"> </div>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=web-coded&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
