@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRASUN GUPTA</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/Web-CODED/Web-CODED/main/linkdn-banner.png"> </div>
 <h3 align="center">An enthusiastic developer from India, started "Web_CODED" and "Excel_STUDY101"</h3>
 
 
@@ -63,7 +64,3 @@
 
 
 <img src="https://myreadme.vercel.app/api/embed/web-coded?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-
-
-![Snake animation](https://github.com/Web-CODED/github-readme/blob/output/github-contribution-snake.svg)
