@@ -57,4 +57,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-coded&show_icons=true&locale=en" alt="web-coded" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=web-coded)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
