@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **progeng94@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/web-coded-8b68a6288](https://www.linkedin.com/in/web-coded-8b68a6288)
+- 📄 Know about my experiences [https://www.linkedin.com/in/prasun-gupta-983832116/](https://www.linkedin.com/in/prasun-gupta-983832116/)
 
 - ⚡ Fun fact **I Think I am Overthinker**
 
